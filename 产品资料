@@ -1,0 +1,14 @@
+Forlinx Desktop 用户资料:
+
+链接：https://pan.baidu.com/s/1DbKjjjRi-2VOJtVShAxRnA提取码：wnca
+
+1.添加5G功能（移远5G和华为5G）。
+2.添加mipi转lvds显示功能。
+3.添加主副屏组合列表。
+4.添加各显示接口分辨率列表。
+5.添加usb转4串口功能。
+6.添加docker功能。
+7.修改uboot命令行进入按键为space按键。
+8.修改设备树名称。
+9.修复测试app源码没有释放的bug。
+10.修复以太网mac地址重新烧写变化的bug。
